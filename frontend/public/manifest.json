@@ -3,30 +3,30 @@
     "name": "Predict Finance Dashboard",
     "icons": [
         {
-            "src": "favicon.ico",
+            "src": "https://via.placeholder.com/64x64.png?text=Icon+64",
             "sizes": "64x64 32x32 24x24 16x16",
             "type": "image/x-icon"
         },
         {
-            "src": "logo72.png",
+            "src": "https://via.placeholder.com/72x72.png?text=Icon+72",
             "type": "image/png",
             "sizes": "72x72",
             "purpose": "any"
         },
         {
-            "src": "logo144.png",
+            "src": "https://via.placeholder.com/144x144.png?text=Icon+144",
             "type": "image/png",
             "sizes": "144x144",
             "purpose": "any"
         },
         {
-            "src": "logo192.png",
+            "src": "https://via.placeholder.com/192x192.png?text=Icon+192",
             "type": "image/png",
             "sizes": "192x192",
             "purpose": "any"
         },
         {
-            "src": "logo512.png",
+            "src": "https://via.placeholder.com/512x512.png?text=Icon+512",
             "type": "image/png",
             "sizes": "512x512",
             "purpose": "any"
@@ -38,7 +38,7 @@
     "background_color": "#ffffff",
     "screenshots": [
         {
-            "src": "screenshot1.png",
+            "src": "https://via.placeholder.com/1280x720.png?text=Screenshot+1",
             "sizes": "1280x720",
             "type": "image/png",
             "form_factor": "wide"

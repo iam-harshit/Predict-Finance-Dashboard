@@ -21,12 +21,12 @@ export default defineConfig({
         description: 'Your app description',
         icons: [
           {
-            src: './public/logo192.png',  // Adjust paths if necessary
+            src: 'https://via.placeholder.com/192x192.png?text=Icon+192',  // Adjust paths if necessary
             sizes: '192x192',
             type: 'image/png',
           },
           {
-            src: './public/logo512.png',
+            src: 'https://via.placeholder.com/512x512.png?text=Icon+512',
             sizes: '512x512',
             type: 'image/png',
           }
