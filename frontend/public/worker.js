@@ -1,8 +1,7 @@
 var CACHE_NAME = "Predict Finance Dashboard"
 
 var urlsToCache = [
-  '/',
-  '/completed'
+  '/'
 ];
 
 // Install a service worker
