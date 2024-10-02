@@ -15,27 +15,6 @@ export default defineConfig({
       injectManifest: {
         globPatterns: ['**/*.{js,css,html,png,svg}'], // Specify which files to cache
       },
-      manifest: {
-        name: 'Predict Finance Dashboard',
-        short_name: 'Predict Finance',
-        description: 'Your app description',
-        icons: [
-          {
-            src: 'https://via.placeholder.com/192x192.png?text=Icon+192',  // Adjust paths if necessary
-            sizes: '192x192',
-            type: 'image/png',
-          },
-          {
-            src: 'https://via.placeholder.com/512x512.png?text=Icon+512',
-            sizes: '512x512',
-            type: 'image/png',
-          }
-        ],
-        start_url: '/',
-        display: 'standalone',
-        theme_color: '#000000',
-        background_color: '#ffffff',
-      },
       workbox: {
         // You can configure runtime caching here
         runtimeCaching: [
